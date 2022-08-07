@@ -168,6 +168,60 @@
     content: 'By clicking here, you can go to my linkedin profile!';
     white-space: initial; }
 
+/* Website My CV */
+.button.button-web {
+  color: #000000;
+  background-color: #bd5d38 }
+.button.button-web:hover,
+.button.button-web:hover:before {
+    content: 'By clicking here, you can go to my CV profile!';
+    white-space: initial; }
+
+/* Blog */
+.button.button-blog {
+  color: #000000;
+  background-color: #fff2f2 }
+.button.button-blog:hover,
+.button.button-blog:hover:before {
+    content: 'By clicking here, you can go to my IT blog!';
+    white-space: initial; }
+
+/* portfolio web site */
+.button.button-portfolio {
+  color: #000000;
+  background-color: salmon }
+.button.button-portfolio:hover,
+.button.button-portfolio:hover:before {
+    content: 'By clicking here, you can go to one of my projects!';
+    white-space: initial; }
+
+/* credly certs */
+.button.button-credly {
+  color: #000000;
+  background-color: #FF6B00 }
+.button.button-credly:hover,
+.button.button-credly:hover:before {
+    content: 'By clicking here, you can go to my credly profile!';
+    white-space: initial; }
+
+/* github important repos */
+.button.button-github {
+  color: #000000;
+  background-color: #3a3a3a }
+.button.button-github:hover,
+.button.button-github:hover:before {
+    content: 'By clicking here, you can go to one of my github projects!';
+    white-space: initial; }
+
+/* itch.io */
+.button.button-itch {
+  color: #000000;
+  background-color: #c40d0d }
+.button.button-itch:hover,
+.button.button-itch:hover:before {
+    content: 'By clicking here, you can go to my itch.io indie games projects!';
+    white-space: initial; }
+
 /* Ko-Fi */
 .button.button-kofi {
   color: #FFFFFF;
