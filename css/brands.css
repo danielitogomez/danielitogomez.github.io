@@ -177,6 +177,15 @@
     content: 'By clicking here, you can go to my CV profile!';
     white-space: initial; }
 
+/* Websites Uptime */
+.button.button-web-uptime {
+  color: #000000;
+  background-color: #40e47f }
+.button.button-web-uptime:hover,
+.button.button-web-uptime:hover:before {
+    content: 'By clicking here, you can go to check my websites status!';
+    white-space: initial; }
+
 /* My PDF CV */
 .button.button-web-pdf {
   color: #000000;
