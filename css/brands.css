@@ -177,6 +177,15 @@
     content: 'By clicking here, you can go to my CV profile!';
     white-space: initial; }
 
+/* My PDF CV */
+.button.button-web-pdf {
+  color: #000000;
+  background-color: #dff327 }
+.button.button-web-pdf:hover,
+.button.button-web-pdf:hover:before {
+    content: 'By clicking here, you can go to my CV profile!';
+    white-space: initial; }
+
 /* Blog */
 .button.button-blog {
   color: #000000;
