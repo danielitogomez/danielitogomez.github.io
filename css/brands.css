@@ -144,7 +144,7 @@
 /* Mail */
 .button.button-mail {
   color: #000000;
-  background-color: #c9724f }
+  background-color: #ee6666 }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
     content: 'By clicking here, you can send me an email, I can take a while to answer!';
