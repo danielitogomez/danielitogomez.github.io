@@ -144,10 +144,28 @@
 /* Mail */
 .button.button-mail {
   color: #000000;
-  background-color: #E8F3EC }
+  background-color: #c9724f }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'By clicking here, you can send me an email, I can take a while to answer!';
+    white-space: initial; }
+
+/* Medium */
+.button.button-medium {
+  color: #000000;
+  background-color: #a3dab7 }
+.button.button-medium:hover,
+.button.button-medium:hover:before {
+    content: 'By clicking here, you can go to my medium blogs!';
+    white-space: initial; }
+
+/* linkedin */
+.button.button-linkedin {
+  color: #000000;
+  background-color: #517fd6 }
+.button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
+    content: 'By clicking here, you can go to my linkedin profile!';
     white-space: initial; }
 
 /* Ko-Fi */
